@@ -9,4 +9,4 @@
 # <h2> Versions </h2>
 <p> Every time there is a new wallpaper, a new version will be created, this will be that you can differentiate the wallpapers and so you take the ones you like, although I also invite you to check the other versions, surely they have another that you may like. </p>
 
-To download the wallpapers go [here](https://github.com/ToastcodeDev/Windows-Wallpapers/releases)
+To download the wallpapers [go here](https://github.com/ToastcodeDev/Windows-Wallpapers/releases)
