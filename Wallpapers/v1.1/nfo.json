@@ -1,12 +1,12 @@
 {
-    "title": "Noisy Valley",
-    "pack_date": "2021-05-02",
-    "pack_termination": ".jpg",
-    "pack_everyone": "4",
-    "packages": [
-        "windows_lemonade",
-        "windows_mint",
-        "windows_sakura",
-        "windows_sun"
-    ]
+  "title": "Noisy Valley",
+  "pack_date": "2021-05-02",
+  "pack_termination": ".jpg",
+  "pack_everyone": "4",
+  "packages": [
+    "windows_lemonade",
+    "windows_mint",
+    "windows_sakura",
+    "windows_sun"
+  ]
 }
