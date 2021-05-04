@@ -1,1 +1,7 @@
-{}
+{
+  "title": "Life Valley",
+  "pack_date": "2021-05-04",
+  "pack_termination": ".jpg",
+  "pack_everyone": "3",
+  "packages": ["windows_crimson", "windows_deepblue", "windows_saturn"]
+}
