@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ToastcodeDev/Windows-Wallpapers/Master/Images/cover_image.jpg" alt="WWPapers Cover" width="1280"/>
+<img src="https://raw.githubusercontent.com/ToastcodeDev/Windows-Wallpapers/Master/Images/cover_image.jpg" alt="WWPapers Cover" width="1380"/>
 
 # <h2> Introduction </h2>
 
