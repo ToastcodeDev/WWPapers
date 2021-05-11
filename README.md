@@ -2,11 +2,11 @@
 
 # <h2> Introduction </h2>
 
-<p> Inspired by Microsoft's Sun Valley update for windows in 2021, a collection of wallpapers created by me in order to send them to Microsoft and put them on a Windows theme. </p>
+<p> Inspired by Microsoft's Sun Valley update for windows in 2021 (Or in the preview shown of Windows X), a collection of wallpapers created by me in order to send them to Microsoft and put them on a Windows theme. </p>
 
-# <h2> Degraded </h2>
+# <h2> Freshness </h2>
 
-<p> They have been molded with the type of gradient color since it is simpler to combine and also because it stands out more with the Sun Valley update. </p>
+<p> They have been molded with the type of gradient color since it is simpler to combine and also because it stands out more with the Sun Valley update (Or Windows X Preview). </p>
 
 # <h2> Versions </h2>
 
