@@ -1,1 +1,15 @@
-{}
+{
+  "title": "Plastic Update",
+  "pack_date": "2021-06-16",
+  "pack_termination": ".jpg",
+  "pack_everyone": "7",
+  "packages": [
+    "windows_clear_sea",
+    "windows_color_blind",
+    "windows_human",
+    "windows_night_rider",
+    "windows_ribbon",
+    "windows_sky",
+    "windows_trunk"
+  ]
+}
